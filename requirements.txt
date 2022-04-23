@@ -5,3 +5,4 @@ pytorch_lightning==1.6.0
 torchmetrics==0.8.0
 albumentations==1.1.0
 omegaconf==2.1.1
+comet-ml==3.29.0
