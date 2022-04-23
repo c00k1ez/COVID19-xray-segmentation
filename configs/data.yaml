@@ -1,0 +1,9 @@
+root_data_path: ./data/archive/Infection Segmentation Data/Infection Segmentation Data/
+
+datasets:
+  dataset_usage: COVID-19,Normal
+  pretrained: imagenet
+  use_sample_label: true
+
+loaders:
+  batch_size: 25 # for 16gb Tesla P100

@@ -1,0 +1,7 @@
+segmentation_models_pytorch==0.2.1
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.11.0
+pytorch_lightning==1.6.0
+torchmetrics==0.8.0
+albumentations==1.1.0
+omegaconf==2.1.1

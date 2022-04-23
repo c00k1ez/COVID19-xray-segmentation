@@ -1,0 +1,7 @@
+backbone_name: mobilenet_v2
+
+experiment_name: unet_baseline
+model_args:
+  encoder_weights: imagenet
+  n_channels: 3
+  classes: 2
